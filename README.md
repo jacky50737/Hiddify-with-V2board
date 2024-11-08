@@ -29,7 +29,7 @@ V2Hiddify 是基于 [Hiddify-Next](https://github.com/hiddify/hiddify-next) 开�
 首先，将项目仓库克隆到本地：
 
 ```bash
-git clone https://github.com/GalenBlabla/Hiddify-with-V2board.git
+git clone https://github.com/jacky50737/Hiddify-with-V2board.git
 cd Hiddify-with-V2board
 ```
 
